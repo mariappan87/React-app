@@ -49,7 +49,7 @@ router.post(
                 password
             });
 
-            const salt = await bcrypt.genSalt(10);
+            const salt = await bcrypt.genSalt(9);
             user.password = await bcrypt.hash(password, salt);
 
             await user.save();
