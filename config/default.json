@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://mari-admin:ramesh87@devconnector-lld67.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mari"
+    "mongoURI": "mongodb+srv://username:********@devconnector-lld67.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "****"
 }

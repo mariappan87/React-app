@@ -23,6 +23,8 @@
     },
     "devDependencies": {
         "concurrently": "^5.0.1",
+        "eslint": "^7.9.0",
+        "eslint-plugin-react": "^7.21.1",
         "nodemon": "^2.0.2"
     }
 }
